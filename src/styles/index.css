@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@300;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Fraunces', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
