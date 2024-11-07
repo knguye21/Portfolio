@@ -31,7 +31,7 @@ const Nav = () => {
         },
         {
             title: 'Resume',
-            link: 'https://drive.google.com/file/d/1NCdLoOulSuwVVmuKLDdtzrCfLACyZQEB/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1Vjmarud1Od9OEr-S14xNqJ4Ycuz9dhyM/view?usp=sharing',
         },
     ];
 
